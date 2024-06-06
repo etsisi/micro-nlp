@@ -16,7 +16,7 @@ features:
     value: 1800 €
     icon: fa-solid fa-euro-sign
   - title: Organización
-    value: 5 Módulos
+    value: 7 Módulos
     icon: fa-solid fa-book-bookmark
   - title: Créditos
     value: 9 ECTS
