@@ -156,7 +156,7 @@ faq:
 copyright_owner: KNODIS Group
 copyright_owner_link: https://knodis-research-group.github.io/
 institution: Escuela Técnica Superior de Ingeniería de Sistemas Informáticos
-institution_link: https://etsisi.upm.es/
+institution_link: https://www.etsisi.upm.es/
 
 aside:
   title: Detalles del título
