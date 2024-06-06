@@ -1,7 +1,7 @@
 # Microcredencial en Procesamiento del Lenguaje Natural
 
-Repositorio para almacenar la web y demás recursos de la «Procesamiento
-del Lenguaje Natural» (ya se llamará microcredencial).
+Repositorio para almacenar la web y demás recursos de la titulación
+«Procesamiento del Lenguaje Natural» (ya se llamará microcredencial).
 
 ## ¿Cómo hacer cambios?
 
